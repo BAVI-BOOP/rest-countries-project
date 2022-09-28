@@ -38,7 +38,7 @@ parallax-website(folder)
 
 ## Screenshot
 <p align="center">
-<a href="https://bavi-boop.github.io/rest-countries-project/"><img src="countries.gif" alt="screenshot"></a>
+<a href="https://bavi-boop.github.io/rest-countries-project/"><img src="country.gif" alt="screenshot"></a>
 </p>
 
 
